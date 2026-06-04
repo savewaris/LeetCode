@@ -7,7 +7,7 @@ This space serves as a collection of my solutions as I work through various data
 ---
 
 ### 🔗 Connect
-*   **LeetCode:** [View My Profile]([https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/savewaris/))
+*   **LeetCode:** [View My Profile](https://leetcode.com/u/savewaris/)
 *   **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/waris-khamkaweepart)
 
 ---
