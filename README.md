@@ -8,8 +8,9 @@ This space serves as a collection of my solutions as I work through various data
 
 ### 🔗 Connect
 *   **LeetCode:** [View My Profile](https://leetcode.com/u/savewaris/)
-*   **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/waris-khamkaweepart)
+*   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/waris-khamkaweepart)
 
 ---
 
 > *"The art of programming is the art of organizing complexity."*
+s a d
